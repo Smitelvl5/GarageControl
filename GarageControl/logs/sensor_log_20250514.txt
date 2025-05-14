@@ -1,0 +1,29 @@
+[2025-05-14 00:00:15] Starting sensor update
+[2025-05-14 00:00:15] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:00:23] Govee H5075 update completed
+[2025-05-14 00:01:37] Starting sensor update
+[2025-05-14 00:01:37] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:01:38] Starting sensor update
+[2025-05-14 00:01:38] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:05:23] Starting sensor update
+[2025-05-14 00:05:23] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:05:30] Govee H5075 update completed
+[2025-05-14 00:05:30] Starting sensor update
+[2025-05-14 00:05:30] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:05:30] Starting sensor update
+[2025-05-14 00:05:30] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:05:38] Starting sensor update
+[2025-05-14 00:05:38] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:05:38] Starting sensor update
+[2025-05-14 00:05:38] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:05:53] Govee H5075 update completed
+[2025-05-14 00:05:53] Govee H5075 update completed
+[2025-05-14 00:08:09] Starting sensor update
+[2025-05-14 00:08:09] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:08:09] Starting sensor update
+[2025-05-14 00:08:09] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:08:26] Govee H5075 update completed
+[2025-05-14 00:08:26] Govee H5075 update completed
+[2025-05-14 00:09:21] Starting sensor update
+[2025-05-14 00:09:21] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:09:36] Govee H5075 update completed

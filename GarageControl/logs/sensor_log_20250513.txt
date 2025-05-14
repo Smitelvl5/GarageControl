@@ -1,0 +1,598 @@
+[2025-05-13 11:08:52] Starting sensor scan
+[2025-05-13 11:08:52] Scan error: 'GoveeScanner' object has no attribute 'scan'
+[2025-05-13 11:09:42] Starting sensor scan
+[2025-05-13 11:10:06] Using fallback approach for sensor data
+[2025-05-13 11:10:06] Created dummy sensor data: 22.5°C, 45.0%
+[2025-05-13 11:10:41] Using fallback approach for sensor data
+[2025-05-13 11:10:41] Created dummy sensor data: 22.5°C, 45.0%
+[2025-05-13 11:10:41] Using fallback approach for sensor data
+[2025-05-13 11:10:41] Created dummy sensor data: 22.5°C, 45.0%
+[2025-05-13 11:12:36] Starting sensor scan
+[2025-05-13 11:14:36] Starting sensor scan
+[2025-05-13 11:14:37] Starting sensor scan
+[2025-05-13 11:14:47] No devices found during scan
+[2025-05-13 11:14:47] Scan error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:14:47] Update loop error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:14:47] No devices found during scan
+[2025-05-13 11:14:47] Scan error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:14:47] Update loop error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:18:00] Starting sensor scan
+[2025-05-13 11:18:11] Starting sensor scan
+[2025-05-13 11:18:12] Starting sensor scan
+[2025-05-13 11:18:21] No devices found during scan
+[2025-05-13 11:18:21] Scan error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:18:21] Update loop error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:18:22] No devices found during scan
+[2025-05-13 11:18:22] Scan error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:18:22] Update loop error: NOT NULL constraint failed: garage_sensordata.temperature
+[2025-05-13 11:21:24] Starting sensor scan
+[2025-05-13 11:21:25] Starting sensor scan
+[2025-05-13 11:22:28] Starting sensor scan
+[2025-05-13 11:22:35] Starting sensor scan
+[2025-05-13 11:22:44] Starting sensor scan
+[2025-05-13 11:23:22] Starting sensor scan
+[2025-05-13 11:23:22] Starting sensor scan
+[2025-05-13 11:23:32] No devices found during scan
+[2025-05-13 11:23:32] Saved device as offline due to no response
+[2025-05-13 11:23:32] No devices found during scan
+[2025-05-13 11:23:32] Saved device as offline due to no response
+[2025-05-13 11:27:00] Starting sensor scan
+[2025-05-13 11:27:00] Starting sensor scan
+[2025-05-13 11:27:10] No devices found during scan
+[2025-05-13 11:27:10] Saved device as offline due to no response
+[2025-05-13 11:27:11] No devices found during scan
+[2025-05-13 11:27:11] Saved device as offline due to no response
+[2025-05-13 11:29:34] Starting sensor scan
+[2025-05-13 11:29:34] Starting sensor scan
+[2025-05-13 11:29:44] No devices found during scan
+[2025-05-13 11:29:44] Saved device as offline due to no response
+[2025-05-13 11:29:45] No devices found during scan
+[2025-05-13 11:29:45] Saved device as offline due to no response
+[2025-05-13 11:32:15] Starting sensor scan
+[2025-05-13 11:32:16] Starting sensor scan
+[2025-05-13 11:32:37] Starting sensor scan
+[2025-05-13 11:32:37] Starting sensor scan
+[2025-05-13 11:32:47] No devices found during scan
+[2025-05-13 11:32:47] Saved device as offline due to no response
+[2025-05-13 11:32:48] No devices found during scan
+[2025-05-13 11:32:48] Saved device as offline due to no response
+[2025-05-13 11:37:20] Starting sensor scan
+[2025-05-13 11:37:29] Starting sensor scan
+[2025-05-13 11:37:29] Starting sensor scan
+[2025-05-13 11:37:39] No devices found during scan
+[2025-05-13 11:37:39] Saved device as offline due to no response
+[2025-05-13 11:37:40] No devices found during scan
+[2025-05-13 11:37:40] Saved device as offline due to no response
+[2025-05-13 11:40:45] Starting sensor scan
+[2025-05-13 11:40:56] No devices found during scan
+[2025-05-13 11:40:56] Saved device as offline due to no response
+[2025-05-13 11:41:11] Starting sensor scan
+[2025-05-13 11:41:21] No devices found during scan
+[2025-05-13 11:41:21] Saved device as offline due to no response
+[2025-05-13 11:41:32] Starting sensor scan
+[2025-05-13 11:41:32] Starting sensor scan
+[2025-05-13 11:41:42] No devices found during scan
+[2025-05-13 11:41:42] Saved device as offline due to no response
+[2025-05-13 11:41:42] No devices found during scan
+[2025-05-13 11:41:42] Saved device as offline due to no response
+[2025-05-13 11:44:56] Starting sensor scan
+[2025-05-13 11:44:57] Starting sensor scan
+[2025-05-13 11:45:06] No devices found during scan
+[2025-05-13 11:45:06] Saved device as offline due to no response
+[2025-05-13 11:45:07] No devices found during scan
+[2025-05-13 11:45:07] Saved device as offline due to no response
+[2025-05-13 11:50:06] Starting sensor scan
+[2025-05-13 11:50:07] Starting sensor scan
+[2025-05-13 11:50:17] No devices found during scan
+[2025-05-13 11:50:17] Saved device as offline due to no response
+[2025-05-13 11:50:17] No devices found during scan
+[2025-05-13 11:50:17] Saved device as offline due to no response
+[2025-05-13 11:55:17] Starting sensor scan
+[2025-05-13 11:55:17] Starting sensor scan
+[2025-05-13 11:55:27] No devices found during scan
+[2025-05-13 11:55:27] Saved device as offline due to no response
+[2025-05-13 11:55:27] No devices found during scan
+[2025-05-13 11:55:27] Saved device as offline due to no response
+[2025-05-13 11:58:20] Starting sensor scan
+[2025-05-13 11:59:25] Starting sensor scan
+[2025-05-13 11:59:25] Starting sensor scan
+[2025-05-13 11:59:35] No devices found during scan
+[2025-05-13 11:59:35] Saved device as offline due to no response
+[2025-05-13 11:59:36] No devices found during scan
+[2025-05-13 11:59:36] Saved device as offline due to no response
+[2025-05-13 12:03:30] Starting sensor scan
+[2025-05-13 12:03:35] Starting sensor scan
+[2025-05-13 12:03:46] No devices found during scan
+[2025-05-13 12:03:46] Saved device as offline due to no response
+[2025-05-13 12:03:49] Starting sensor scan
+[2025-05-13 12:03:51] Starting sensor scan
+[2025-05-13 12:04:02] No devices found during scan
+[2025-05-13 12:04:02] Saved device as offline due to no response
+[2025-05-13 12:04:35] Starting sensor scan
+[2025-05-13 12:04:46] No devices found during scan
+[2025-05-13 12:04:46] Saved device as offline due to no response
+[2025-05-13 12:04:51] Starting sensor scan
+[2025-05-13 12:05:03] No devices found during scan
+[2025-05-13 12:05:03] Saved device as offline due to no response
+[2025-05-13 12:05:13] Starting sensor scan
+[2025-05-13 12:05:49] Starting sensor scan
+[2025-05-13 12:05:49] Starting sensor scan
+[2025-05-13 12:05:59] No devices found during scan
+[2025-05-13 12:05:59] Saved device as offline due to no response
+[2025-05-13 12:05:59] No devices found during scan
+[2025-05-13 12:05:59] Saved device as offline due to no response
+[2025-05-13 12:07:42] Starting sensor scan
+[2025-05-13 12:07:53] No devices found during scan
+[2025-05-13 12:07:53] Saved device as offline due to no response
+[2025-05-13 12:07:57] Starting sensor scan
+[2025-05-13 12:07:57] Starting sensor scan
+[2025-05-13 12:08:07] No devices found during scan
+[2025-05-13 12:08:07] Saved device as offline due to no response
+[2025-05-13 12:08:07] No devices found during scan
+[2025-05-13 12:08:07] Saved device as offline due to no response
+[2025-05-13 12:09:16] Starting sensor scan
+[2025-05-13 12:09:16] Starting sensor scan
+[2025-05-13 12:09:26] No devices found during scan
+[2025-05-13 12:09:26] Saved device as offline due to no response
+[2025-05-13 12:09:27] No devices found during scan
+[2025-05-13 12:09:27] Saved device as offline due to no response
+[2025-05-13 12:17:21] Starting sensor scan
+[2025-05-13 12:17:21] Starting sensor scan
+[2025-05-13 12:17:31] No devices found during scan
+[2025-05-13 12:17:31] Saved device as offline due to no response
+[2025-05-13 12:17:31] No devices found during scan
+[2025-05-13 12:17:32] Saved device as offline due to no response
+[2025-05-13 12:26:31] Starting sensor scan
+[2025-05-13 12:26:32] Starting sensor scan
+[2025-05-13 12:26:42] No devices found during scan
+[2025-05-13 12:26:42] Saved device as offline due to no response
+[2025-05-13 12:26:42] No devices found during scan
+[2025-05-13 12:26:42] Saved device as offline due to no response
+[2025-05-13 12:27:57] Starting sensor scan
+[2025-05-13 12:27:57] Starting sensor scan
+[2025-05-13 12:28:07] No devices found during scan
+[2025-05-13 12:28:07] Saved device as offline due to no response
+[2025-05-13 12:28:16] No devices found during scan
+[2025-05-13 12:28:16] Saved device as offline due to no response
+[2025-05-13 12:33:07] Starting sensor scan
+[2025-05-13 12:33:16] Starting sensor scan
+[2025-05-13 12:33:18] No devices found during scan
+[2025-05-13 12:33:18] Saved device as offline due to no response
+[2025-05-13 12:33:26] No devices found during scan
+[2025-05-13 12:33:26] Saved device as offline due to no response
+[2025-05-13 12:38:18] Starting sensor scan
+[2025-05-13 12:38:26] Starting sensor scan
+[2025-05-13 12:38:28] No devices found during scan
+[2025-05-13 12:38:28] Saved device as offline due to no response
+[2025-05-13 12:38:37] No devices found during scan
+[2025-05-13 12:38:37] Saved device as offline due to no response
+[2025-05-13 12:44:02] Starting sensor scan
+[2025-05-13 12:44:18] Starting sensor scan
+[2025-05-13 12:44:19] No devices found during scan
+[2025-05-13 12:44:19] Saved device as offline due to no response
+[2025-05-13 12:44:28] No devices found during scan
+[2025-05-13 12:44:28] Saved device as offline due to no response
+[2025-05-13 12:46:44] Starting sensor scan
+[2025-05-13 12:46:54] No devices found during scan
+[2025-05-13 12:46:55] Saved device as offline due to no response
+[2025-05-13 12:46:55] Starting sensor scan
+[2025-05-13 12:47:05] No devices found during scan
+[2025-05-13 12:47:05] Saved device as offline due to no response
+[2025-05-13 12:47:14] Starting sensor scan
+[2025-05-13 12:47:31] No devices found during scan
+[2025-05-13 12:49:19] Starting sensor scan
+[2025-05-13 12:49:29] No devices found during scan
+[2025-05-13 12:49:29] Saved device as offline due to no response
+[2025-05-13 12:53:09] Starting sensor scan
+[2025-05-13 12:53:09] Starting sensor scan
+[2025-05-13 12:53:19] No devices found during scan
+[2025-05-13 12:53:19] Saved device as offline due to no response
+[2025-05-13 12:57:38] Starting sensor scan
+[2025-05-13 12:57:38] Starting sensor scan
+[2025-05-13 12:57:48] No devices found during scan
+[2025-05-13 12:57:48] Saved device as offline due to no response
+[2025-05-13 12:57:48] No devices found during scan
+[2025-05-13 12:57:48] Saved device as offline due to no response
+[2025-05-13 12:59:29] Starting sensor scan
+[2025-05-13 12:59:29] Starting sensor scan
+[2025-05-13 12:59:39] No devices found during scan
+[2025-05-13 12:59:39] Saved device as offline due to no response
+[2025-05-13 12:59:39] No devices found during scan
+[2025-05-13 12:59:39] Saved device as offline due to no response
+[2025-05-13 13:00:43] Starting sensor scan
+[2025-05-13 13:00:43] Starting sensor scan
+[2025-05-13 13:00:45] Starting sensor scan
+[2025-05-13 13:00:57] Starting sensor scan
+[2025-05-13 13:00:58] Starting sensor scan
+[2025-05-13 13:01:08] No devices found during scan
+[2025-05-13 13:01:08] Saved device as offline due to no response
+[2025-05-13 13:01:08] No devices found during scan
+[2025-05-13 13:01:08] Saved device as offline due to no response
+[2025-05-13 13:05:29] Starting sensor scan
+[2025-05-13 13:05:29] Starting sensor scan
+[2025-05-13 13:05:39] No devices found during scan
+[2025-05-13 13:05:39] Saved device as offline due to no response
+[2025-05-13 13:05:39] No devices found during scan
+[2025-05-13 13:05:39] Saved device as offline due to no response
+[2025-05-13 13:09:04] Starting sensor scan
+[2025-05-13 13:09:04] Starting sensor scan
+[2025-05-13 13:09:14] No devices found during scan
+[2025-05-13 13:09:14] Saved device as offline due to no response
+[2025-05-13 13:09:14] No devices found during scan
+[2025-05-13 13:09:14] Saved device as offline due to no response
+[2025-05-13 13:09:53] Starting sensor scan
+[2025-05-13 13:09:53] Starting sensor scan
+[2025-05-13 13:10:03] No devices found during scan
+[2025-05-13 13:10:03] Saved device as offline due to no response
+[2025-05-13 13:10:03] No devices found during scan
+[2025-05-13 13:10:03] Saved device as offline due to no response
+[2025-05-13 13:10:08] Starting sensor scan
+[2025-05-13 13:10:08] Starting sensor scan
+[2025-05-13 13:10:18] No devices found during scan
+[2025-05-13 13:10:18] Saved device as offline due to no response
+[2025-05-13 13:10:18] No devices found during scan
+[2025-05-13 13:10:18] Saved device as offline due to no response
+[2025-05-13 13:11:20] Starting sensor scan
+[2025-05-13 13:11:31] No devices found during scan
+[2025-05-13 13:11:31] Saved device as offline due to no response
+[2025-05-13 13:21:07] Starting sensor scan
+[2025-05-13 13:21:07] Starting sensor scan
+[2025-05-13 13:21:17] No devices found during scan
+[2025-05-13 13:21:17] Saved device as offline due to no response
+[2025-05-13 13:21:18] No devices found during scan
+[2025-05-13 13:21:18] Saved device as offline due to no response
+[2025-05-13 13:23:26] Starting sensor scan
+[2025-05-13 13:23:27] Starting sensor scan
+[2025-05-13 13:23:36] No devices found during scan
+[2025-05-13 13:23:37] Saved device as offline due to no response
+[2025-05-13 13:23:37] No devices found during scan
+[2025-05-13 13:23:37] Saved device as offline due to no response
+[2025-05-13 13:24:54] Starting sensor scan
+[2025-05-13 13:24:54] Starting sensor scan
+[2025-05-13 13:25:04] No devices found during scan
+[2025-05-13 13:25:04] Saved device as offline due to no response
+[2025-05-13 13:25:04] No devices found during scan
+[2025-05-13 13:25:04] Saved device as offline due to no response
+[2025-05-13 13:29:09] Starting sensor scan
+[2025-05-13 13:29:09] Starting sensor scan
+[2025-05-13 13:29:19] No devices found during scan
+[2025-05-13 13:29:19] Saved device as offline due to no response
+[2025-05-13 13:29:20] No devices found during scan
+[2025-05-13 13:29:20] Saved device as offline due to no response
+[2025-05-13 13:31:42] Starting sensor scan
+[2025-05-13 13:31:43] Starting sensor scan
+[2025-05-13 13:31:53] No devices found during scan
+[2025-05-13 13:31:53] Saved device as offline due to no response
+[2025-05-13 13:31:53] No devices found during scan
+[2025-05-13 13:31:53] Saved device as offline due to no response
+[2025-05-13 13:39:43] Starting sensor scan
+[2025-05-13 13:39:43] Starting sensor scan
+[2025-05-13 13:39:53] No devices found during scan
+[2025-05-13 13:39:53] Saved device as offline due to no response
+[2025-05-13 13:39:53] No devices found during scan
+[2025-05-13 13:39:53] Saved device as offline due to no response
+[2025-05-13 13:40:52] Starting sensor scan
+[2025-05-13 13:40:58] Starting sensor scan
+[2025-05-13 13:41:12] Starting sensor scan
+[2025-05-13 13:44:53] Starting sensor scan
+[2025-05-13 13:44:53] Starting sensor scan
+[2025-05-13 13:45:03] No devices found during scan
+[2025-05-13 13:45:03] Saved device as offline due to no response
+[2025-05-13 13:45:03] No devices found during scan
+[2025-05-13 13:45:03] Saved device as offline due to no response
+[2025-05-13 13:46:38] Starting sensor scan
+[2025-05-13 13:47:24] Starting sensor scan
+[2025-05-13 13:47:30] Starting sensor scan
+[2025-05-13 13:47:36] Starting sensor scan
+[2025-05-13 13:47:43] Starting sensor scan
+[2025-05-13 13:50:03] Starting sensor scan
+[2025-05-13 13:50:03] Starting sensor scan
+[2025-05-13 13:50:13] No devices found during scan
+[2025-05-13 13:50:13] Saved device as offline due to no response
+[2025-05-13 13:50:13] No devices found during scan
+[2025-05-13 13:50:13] Saved device as offline due to no response
+[2025-05-13 13:53:58] Starting sensor scan
+[2025-05-13 13:53:58] Starting sensor scan
+[2025-05-13 13:54:08] No devices found during scan
+[2025-05-13 13:54:08] Saved device as offline due to no response
+[2025-05-13 13:54:09] No devices found during scan
+[2025-05-13 13:54:09] Saved device as offline due to no response
+[2025-05-13 19:49:46] Starting sensor scan
+[2025-05-13 19:49:46] Starting sensor scan
+[2025-05-13 19:49:56] No devices found during scan
+[2025-05-13 19:49:56] Saved device as offline due to no response
+[2025-05-13 19:49:57] No devices found during scan
+[2025-05-13 19:49:57] Saved device as offline due to no response
+[2025-05-13 19:54:56] Starting sensor scan
+[2025-05-13 19:54:57] Starting sensor scan
+[2025-05-13 19:55:07] No devices found during scan
+[2025-05-13 19:55:07] Saved device as offline due to no response
+[2025-05-13 19:55:07] No devices found during scan
+[2025-05-13 19:55:07] Saved device as offline due to no response
+[2025-05-13 20:03:13] Starting sensor scan
+[2025-05-13 20:03:13] Starting sensor scan
+[2025-05-13 20:03:23] No devices found during scan
+[2025-05-13 20:03:23] Saved device as offline due to no response
+[2025-05-13 20:03:24] No devices found during scan
+[2025-05-13 20:03:24] Saved device as offline due to no response
+[2025-05-13 20:18:16] Starting sensor scan
+[2025-05-13 20:19:58] Starting sensor scan
+[2025-05-13 20:19:58] Starting sensor scan
+[2025-05-13 20:20:13] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:20:13] Saved sensor data: 204.44°C, 161.28%, Battery: 76%
+[2025-05-13 20:20:13] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:20:13] Saved sensor data: 204.44°C, 161.28%, Battery: 76%
+[2025-05-13 20:21:37] Starting sensor scan
+[2025-05-13 20:21:38] Starting sensor scan
+[2025-05-13 20:21:57] Starting sensor scan
+[2025-05-13 20:21:57] Starting sensor scan
+[2025-05-13 20:22:12] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:22:12] Saved sensor data: 204.43°C, 161.28%, Battery: 76%
+[2025-05-13 20:22:12] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:22:12] Saved sensor data: 204.43°C, 161.28%, Battery: 76%
+[2025-05-13 20:23:25] Starting sensor scan
+[2025-05-13 20:23:48] Starting sensor scan
+[2025-05-13 20:23:48] Starting sensor scan
+[2025-05-13 20:24:03] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:24:03] Saved sensor data: 204.45°C, 161.28%, Battery: 76%
+[2025-05-13 20:24:03] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:24:03] Saved sensor data: 204.45°C, 161.28%, Battery: 76%
+[2025-05-13 20:24:48] Starting sensor scan
+[2025-05-13 20:24:48] Starting sensor scan
+[2025-05-13 20:25:03] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:25:03] Saved sensor data: 204.45°C, 161.28%, Battery: 76%
+[2025-05-13 20:25:04] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:25:04] Saved sensor data: 204.45°C, 161.28%, Battery: 76%
+[2025-05-13 20:30:42] Starting sensor scan
+[2025-05-13 20:30:43] Starting sensor scan
+[2025-05-13 20:33:34] Starting sensor scan
+[2025-05-13 20:33:34] Starting sensor scan
+[2025-05-13 20:33:49] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:33:49] Saved sensor data: 28.3°C, 58.7%, Battery: 63%
+[2025-05-13 20:33:50] Found device with sensor data: GVH5075_4F47 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 20:33:50] Saved sensor data: 28.3°C, 58.7%, Battery: 63%
+[2025-05-13 20:34:25] Starting sensor scan
+[2025-05-13 20:36:28] Starting sensor scan
+[2025-05-13 20:36:58] Starting sensor scan
+[2025-05-13 20:39:47] Starting sensor scan
+[2025-05-13 20:39:47] Starting sensor scan
+[2025-05-13 20:40:02] Found device with sensor data: ihoment_H5080_BAAF at 53F9DEAB-4CCA-686A-94F6-F065FD78336D
+[2025-05-13 20:40:02] Saved sensor data: 2.56°C, 0.01%, Battery: 0%
+[2025-05-13 20:40:03] Found device with sensor data: ihoment_H5080_C6F1 at 90230471-7BD2-EACE-5C18-EDB41FE7CC48
+[2025-05-13 20:40:03] Saved sensor data: 2.56°C, 0.01%, Battery: 0%
+[2025-05-13 20:43:30] Starting sensor scan
+[2025-05-13 20:45:17] Starting sensor scan
+[2025-05-13 20:45:17] Starting sensor scan
+[2025-05-13 20:45:32] No devices found during scan
+[2025-05-13 20:45:32] Saved device as offline due to no response
+[2025-05-13 20:45:32] No devices found during scan
+[2025-05-13 20:45:32] Saved device as offline due to no response
+[2025-05-13 20:47:38] Starting sensor scan
+[2025-05-13 20:47:38] Starting sensor scan
+[2025-05-13 20:47:53] No devices found during scan
+[2025-05-13 20:47:53] Saved device as offline due to no response
+[2025-05-13 20:47:53] No devices found during scan
+[2025-05-13 20:47:53] Saved device as offline due to no response
+[2025-05-13 20:52:53] Starting sensor scan
+[2025-05-13 20:52:53] Starting sensor scan
+[2025-05-13 20:53:08] No devices found during scan
+[2025-05-13 20:53:08] Saved device as offline due to no response
+[2025-05-13 20:53:09] No devices found during scan
+[2025-05-13 20:53:09] Saved device as offline due to no response
+[2025-05-13 20:58:08] Starting sensor scan
+[2025-05-13 20:58:09] Starting sensor scan
+[2025-05-13 20:58:23] No devices found during scan
+[2025-05-13 20:58:23] Saved device as offline due to no response
+[2025-05-13 20:58:24] No devices found during scan
+[2025-05-13 20:58:24] Saved device as offline due to no response
+[2025-05-13 21:03:23] Starting sensor scan
+[2025-05-13 21:03:24] Starting sensor scan
+[2025-05-13 21:03:38] No devices found during scan
+[2025-05-13 21:03:38] Saved device as offline due to no response
+[2025-05-13 21:03:39] No devices found during scan
+[2025-05-13 21:03:39] Saved device as offline due to no response
+[2025-05-13 21:08:38] Starting sensor scan
+[2025-05-13 21:08:39] Starting sensor scan
+[2025-05-13 21:08:54] No devices found during scan
+[2025-05-13 21:08:54] Saved device as offline due to no response
+[2025-05-13 21:08:54] No devices found during scan
+[2025-05-13 21:08:54] Saved device as offline due to no response
+[2025-05-13 21:13:54] Starting sensor scan
+[2025-05-13 21:13:54] Starting sensor scan
+[2025-05-13 21:14:09] No devices found during scan
+[2025-05-13 21:14:09] Saved device as offline due to no response
+[2025-05-13 21:14:09] No devices found during scan
+[2025-05-13 21:14:09] Saved device as offline due to no response
+[2025-05-13 21:19:09] Starting sensor scan
+[2025-05-13 21:19:09] Starting sensor scan
+[2025-05-13 21:19:24] No devices found during scan
+[2025-05-13 21:19:24] Saved device as offline due to no response
+[2025-05-13 21:19:24] No devices found during scan
+[2025-05-13 21:19:24] Saved device as offline due to no response
+[2025-05-13 21:24:24] Starting sensor scan
+[2025-05-13 21:24:24] Starting sensor scan
+[2025-05-13 21:24:39] No devices found during scan
+[2025-05-13 21:24:39] Saved device as offline due to no response
+[2025-05-13 21:24:40] No devices found during scan
+[2025-05-13 21:24:40] Saved device as offline due to no response
+[2025-05-13 21:29:39] Starting sensor scan
+[2025-05-13 21:29:40] Starting sensor scan
+[2025-05-13 21:29:54] No devices found during scan
+[2025-05-13 21:29:54] Saved device as offline due to no response
+[2025-05-13 21:29:55] No devices found during scan
+[2025-05-13 21:29:55] Saved device as offline due to no response
+[2025-05-13 21:34:54] Starting sensor scan
+[2025-05-13 21:34:55] Starting sensor scan
+[2025-05-13 21:35:09] No devices found during scan
+[2025-05-13 21:35:09] Saved device as offline due to no response
+[2025-05-13 21:35:10] No devices found during scan
+[2025-05-13 21:35:10] Saved device as offline due to no response
+[2025-05-13 21:40:09] Starting sensor scan
+[2025-05-13 21:40:10] Starting sensor scan
+[2025-05-13 21:40:25] No devices found during scan
+[2025-05-13 21:40:25] Saved device as offline due to no response
+[2025-05-13 21:40:25] No devices found during scan
+[2025-05-13 21:40:25] Saved device as offline due to no response
+[2025-05-13 21:45:25] Starting sensor scan
+[2025-05-13 21:45:25] Starting sensor scan
+[2025-05-13 21:45:40] No devices found during scan
+[2025-05-13 21:45:40] Saved device as offline due to no response
+[2025-05-13 21:45:40] No devices found during scan
+[2025-05-13 21:45:40] Saved device as offline due to no response
+[2025-05-13 21:50:40] Starting sensor scan
+[2025-05-13 21:50:40] Starting sensor scan
+[2025-05-13 21:50:55] No devices found during scan
+[2025-05-13 21:50:55] Saved device as offline due to no response
+[2025-05-13 21:50:55] No devices found during scan
+[2025-05-13 21:50:55] Saved device as offline due to no response
+[2025-05-13 21:55:55] Starting sensor scan
+[2025-05-13 21:55:55] Starting sensor scan
+[2025-05-13 21:56:10] No devices found during scan
+[2025-05-13 21:56:10] Saved device as offline due to no response
+[2025-05-13 21:56:11] No devices found during scan
+[2025-05-13 21:56:11] Saved device as offline due to no response
+[2025-05-13 22:01:10] Starting sensor scan
+[2025-05-13 22:01:11] Starting sensor scan
+[2025-05-13 22:01:25] No devices found during scan
+[2025-05-13 22:01:25] Saved device as offline due to no response
+[2025-05-13 22:01:26] No devices found during scan
+[2025-05-13 22:01:26] Saved device as offline due to no response
+[2025-05-13 22:06:25] Starting sensor scan
+[2025-05-13 22:06:26] Starting sensor scan
+[2025-05-13 22:06:40] No devices found during scan
+[2025-05-13 22:06:40] Saved device as offline due to no response
+[2025-05-13 22:06:41] No devices found during scan
+[2025-05-13 22:06:41] Saved device as offline due to no response
+[2025-05-13 22:11:40] Starting sensor scan
+[2025-05-13 22:11:41] Starting sensor scan
+[2025-05-13 22:11:56] No devices found during scan
+[2025-05-13 22:11:56] Saved device as offline due to no response
+[2025-05-13 22:11:56] No devices found during scan
+[2025-05-13 22:11:56] Saved device as offline due to no response
+[2025-05-13 22:16:56] Starting sensor scan
+[2025-05-13 22:16:56] Starting sensor scan
+[2025-05-13 22:17:11] No devices found during scan
+[2025-05-13 22:17:11] Saved device as offline due to no response
+[2025-05-13 22:17:11] No devices found during scan
+[2025-05-13 22:17:11] Saved device as offline due to no response
+[2025-05-13 22:22:11] Starting sensor scan
+[2025-05-13 22:22:11] Starting sensor scan
+[2025-05-13 22:22:26] No devices found during scan
+[2025-05-13 22:22:26] Saved device as offline due to no response
+[2025-05-13 22:22:26] No devices found during scan
+[2025-05-13 22:22:26] Saved device as offline due to no response
+[2025-05-13 22:27:26] Starting sensor scan
+[2025-05-13 22:27:26] Starting sensor scan
+[2025-05-13 22:27:41] No devices found during scan
+[2025-05-13 22:27:41] Saved device as offline due to no response
+[2025-05-13 22:27:42] No devices found during scan
+[2025-05-13 22:27:42] Saved device as offline due to no response
+[2025-05-13 22:32:41] Starting sensor scan
+[2025-05-13 22:32:42] Starting sensor scan
+[2025-05-13 22:32:56] No devices found during scan
+[2025-05-13 22:32:56] Saved device as offline due to no response
+[2025-05-13 22:32:57] No devices found during scan
+[2025-05-13 22:32:57] Saved device as offline due to no response
+[2025-05-13 22:37:56] Starting sensor scan
+[2025-05-13 22:37:57] Starting sensor scan
+[2025-05-13 22:38:11] No devices found during scan
+[2025-05-13 22:38:11] Saved device as offline due to no response
+[2025-05-13 22:38:12] No devices found during scan
+[2025-05-13 22:38:12] Saved device as offline due to no response
+[2025-05-13 22:43:11] Starting sensor scan
+[2025-05-13 22:43:12] Starting sensor scan
+[2025-05-13 22:43:26] No devices found during scan
+[2025-05-13 22:43:26] Saved device as offline due to no response
+[2025-05-13 22:43:27] No devices found during scan
+[2025-05-13 22:43:27] Saved device as offline due to no response
+[2025-05-13 22:48:26] Starting sensor scan
+[2025-05-13 22:48:27] Starting sensor scan
+[2025-05-13 22:48:42] No devices found during scan
+[2025-05-13 22:48:42] Saved device as offline due to no response
+[2025-05-13 22:48:42] No devices found during scan
+[2025-05-13 22:48:42] Saved device as offline due to no response
+[2025-05-13 22:53:42] Starting sensor scan
+[2025-05-13 22:53:42] Starting sensor scan
+[2025-05-13 22:53:57] No devices found during scan
+[2025-05-13 22:53:57] Saved device as offline due to no response
+[2025-05-13 22:53:57] No devices found during scan
+[2025-05-13 22:53:57] Saved device as offline due to no response
+[2025-05-13 22:58:57] Starting sensor scan
+[2025-05-13 22:58:57] Starting sensor scan
+[2025-05-13 22:59:12] No devices found during scan
+[2025-05-13 22:59:12] Saved device as offline due to no response
+[2025-05-13 22:59:12] No devices found during scan
+[2025-05-13 22:59:12] Saved device as offline due to no response
+[2025-05-13 23:04:12] Starting sensor scan
+[2025-05-13 23:04:12] Starting sensor scan
+[2025-05-13 23:04:27] No devices found during scan
+[2025-05-13 23:04:27] Saved device as offline due to no response
+[2025-05-13 23:04:28] No devices found during scan
+[2025-05-13 23:04:28] Saved device as offline due to no response
+[2025-05-13 23:09:27] Starting sensor scan
+[2025-05-13 23:09:28] Starting sensor scan
+[2025-05-13 23:09:42] No devices found during scan
+[2025-05-13 23:09:42] Saved device as offline due to no response
+[2025-05-13 23:09:43] No devices found during scan
+[2025-05-13 23:09:43] Saved device as offline due to no response
+[2025-05-13 23:14:42] Starting sensor scan
+[2025-05-13 23:14:43] Starting sensor scan
+[2025-05-13 23:14:57] No devices found during scan
+[2025-05-13 23:14:57] Saved device as offline due to no response
+[2025-05-13 23:14:58] No devices found during scan
+[2025-05-13 23:14:58] Saved device as offline due to no response
+[2025-05-13 23:19:57] Starting sensor scan
+[2025-05-13 23:19:58] Starting sensor scan
+[2025-05-13 23:20:13] No devices found during scan
+[2025-05-13 23:20:13] Saved device as offline due to no response
+[2025-05-13 23:20:13] No devices found during scan
+[2025-05-13 23:20:13] Saved device as offline due to no response
+[2025-05-13 23:25:13] Starting sensor scan
+[2025-05-13 23:25:13] Starting sensor scan
+[2025-05-13 23:25:28] No devices found during scan
+[2025-05-13 23:25:28] Saved device as offline due to no response
+[2025-05-13 23:25:28] No devices found during scan
+[2025-05-13 23:25:28] Saved device as offline due to no response
+[2025-05-13 23:30:28] Starting sensor scan
+[2025-05-13 23:30:28] Starting sensor scan
+[2025-05-13 23:30:43] No devices found during scan
+[2025-05-13 23:30:43] Saved device as offline due to no response
+[2025-05-13 23:30:43] No devices found during scan
+[2025-05-13 23:30:43] Saved device as offline due to no response
+[2025-05-13 23:35:43] Starting sensor scan
+[2025-05-13 23:35:43] Starting sensor scan
+[2025-05-13 23:35:58] No devices found during scan
+[2025-05-13 23:35:58] Saved device as offline due to no response
+[2025-05-13 23:35:58] No devices found during scan
+[2025-05-13 23:35:58] Saved device as offline due to no response
+[2025-05-13 23:40:58] Starting sensor scan
+[2025-05-13 23:40:58] Starting sensor scan
+[2025-05-13 23:41:13] No devices found during scan
+[2025-05-13 23:41:13] Saved device as offline due to no response
+[2025-05-13 23:41:14] No devices found during scan
+[2025-05-13 23:41:14] Saved device as offline due to no response
+[2025-05-13 23:52:09] Starting sensor update
+[2025-05-13 23:52:09] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:52:10] Starting sensor update
+[2025-05-13 23:52:10] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:52:21] Govee H5075 update completed
+[2025-05-13 23:52:21] Govee H5075 update completed
+[2025-05-13 23:55:12] Starting sensor update
+[2025-05-13 23:55:12] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:55:18] Starting sensor update
+[2025-05-13 23:55:18] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:55:18] Starting sensor update
+[2025-05-13 23:55:18] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:55:25] Govee H5075 update completed
+[2025-05-13 23:55:25] Govee H5075 update completed
+[2025-05-13 23:57:32] Starting sensor update
+[2025-05-13 23:57:32] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:57:32] Starting sensor update
+[2025-05-13 23:57:32] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-13 23:57:40] Govee H5075 update completed
+[2025-05-13 23:57:40] Govee H5075 update completed
+[2025-05-14 00:02:40] Starting sensor update
+[2025-05-14 00:02:40] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
+[2025-05-14 00:02:48] Govee H5075 update completed
+[2025-05-14 00:07:48] Starting sensor update
+[2025-05-14 00:07:48] Connecting to Govee H5075 at 477DACF3-226D-F4B8-E636-F3CABB7B2274
